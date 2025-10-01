@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Somnath Das
 
-A recent **B.Tech graduate in Information Technology (2025)** from the University of Kalyani with hands-on experience in **full-stack web development** and **machine learning**. Passionate about building scalable, intelligent systems that solve real-world problems—from agricultural AI to data-driven insights and responsive web applications.
+I’m Somnath Das, a recent **IT graduate from University of Kalyani** with a strong proficiency in **Python, C, Django and Machine Learning**. I have applied these skills in my **Custom CNN Model Project and Online Marketplace Project**. I actively seeking opportunities in **Software Development** where I can contribute my technical skills while continuing to learn and grow.
 
 ---
 
