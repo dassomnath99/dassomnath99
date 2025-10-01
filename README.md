@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Somnath Das
 
-🎓 Final-year B.Tech student in **Information Technology** @ University of Kalyani (2025)  
+🎓 Recent Graduate B.Tech student in **Information Technology** @ University of Kalyani (2025)  
 💻 **Full-Stack Developer** | 🤖 **Machine Learning Enthusiast** | 🌱 Passionate about building intelligent, scalable solutions  
 
 📍 Based in Kolkata, West Bengal, India  
